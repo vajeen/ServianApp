@@ -1,0 +1,7 @@
+"DbUser" = "postgres"
+"DbPassword" = "Password@123"
+"DbName" = "app"
+"DbPort" = "5432"
+"DbHost" = "10.60.128.2"
+"ListenHost" = "0.0.0.0"
+"ListenPort" = "80"

@@ -5,6 +5,7 @@ pipeline {
             steps {
                 timeout(time: 10, unit: 'MINUTES') {
                     retry(5) {
+						sh 'chmod +x build.sh'
                         sh './build.sh'
                     }
                 }

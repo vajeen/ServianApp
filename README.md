@@ -1,6 +1,6 @@
-##IaC with Terraform for TechChallengeApp
+## IaC with Terraform for TechChallengeApp
 
-###Getting started
+### Getting started
 Clone the repository
 checkout iac branch
 ```
@@ -17,7 +17,7 @@ Apply config
 terraform apply
 ```
 
-###Details
+### Details
 This will create following resources
 - Default network
 - Default subnet
